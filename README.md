@@ -1,0 +1,1 @@
+# ai-model-for-diagnosing-skin-condition
